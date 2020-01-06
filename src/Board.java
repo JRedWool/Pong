@@ -1,5 +1,7 @@
 import com.sun.javafx.geom.Edge;
 
+//STORES INFO FOR THE FIELD OF THE GAME SUCH AS PLAYING AREA. THIS ALSO MOVES OBJECTS! COOL!
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
